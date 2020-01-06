@@ -1,0 +1,4 @@
+--Add your API Key's to ShadowBot.exe.config file and choose QtyForAutoTrade. After Config file is ready then its time to run ShadowBot.exe i recommend Administrator mode 
+to avoid any errors but its up to you.
+
+contact CryptoTuna#8200 if you find any bugs
